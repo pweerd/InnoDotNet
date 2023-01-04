@@ -1,0 +1,14 @@
+.vs/
+packages/
+obj/
+bin/
+testresults/
+
+
+*.swp
+*.disabled
+*.old
+*.tmp
+*.bak
+*.ini
+.dropbox
